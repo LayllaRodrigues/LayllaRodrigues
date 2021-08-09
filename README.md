@@ -1,7 +1,7 @@
 ## Laylla Rodrigues
 
 - 🔭 Quality engineering
-- 🌱 Estudadando automação, ruby e python
+- 🌱 Estudando automação, ruby e python
 - 😄 Pronouns: ela/dela
 
 
