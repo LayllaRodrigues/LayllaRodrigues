@@ -42,6 +42,6 @@
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" /></p>
 
   
-  ![Snake animation](https://github.com/LayllaRodrigues/LayllaRodrigues/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/layllarodrigues/layllarodrigues/blob/output/github-contribution-grid-snake.svg)
  
 
