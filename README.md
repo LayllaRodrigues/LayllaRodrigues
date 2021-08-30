@@ -40,6 +40,9 @@
  
  <p align="center"> Quantidade de pessoas que passaram por aqui 😜 </p>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" /></p>
+ 
+   ![Snake animation](https://github.com/LayllaRodrigues/LayllaRodrigues/blob/output/github-contribution-grid-snake.svg)
+
 
   
  
