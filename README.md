@@ -1,9 +1,12 @@
-## Laylla Rodrigues
+# Laylla Rodrigues
 
 - 🔭 Quality assurance
-- 🌱 Estudando automação, ruby e python
+- 🌱 Estudando automação
 - 😄 Pronouns: ela/dela
 
+### Um computador é como um gênio travesso. Ele vai lhe dar exatamente o que você pede, mas nem sempre o que você deseja. 
+
+# 
 
  <div>
   <a href="https://github.com/LayllaRodrigues">
