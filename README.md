@@ -1,8 +1,8 @@
 # Laylla Rodrigues
 
-- 🔭 Quality assurance
-- 🌱 Estudando automação
-- 😄 Pronouns: ela/dela
+🔭 Quality assurance
+🌱 Estudando automação
+😄 Pronouns: ela/dela
 
 ### Um computador é como um gênio travesso. Ele vai lhe dar exatamente o que você pede, mas nem sempre o que você deseja. 
 
