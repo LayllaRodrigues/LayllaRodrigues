@@ -1,4 +1,4 @@
-# Laylla Rodrigues.
+# Laylla Rodrigues
 
 - 🔭 Quality assurance
 - 🌱 Estudante de automação e engenharia da qualidade
