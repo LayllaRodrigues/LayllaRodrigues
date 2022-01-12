@@ -1,6 +1,6 @@
 # Laylla Rodrigues
 
-- 🔭 Quality assurance
+- 🔭 Quality assurance analyst
 - 🌱 Estudante de automação e engenharia da qualidade
 - 😄 Pronouns: ela/dela
 
