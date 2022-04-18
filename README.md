@@ -10,9 +10,9 @@
 
  <div>
   <a href="https://github.com/LayllaRodrigues">
-   <img  src="https://github-readme-stats.vercel.app/api?username=layllarodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="55%" height="50%"/>
+   <img  src="https://github-readme-stats.vercel.app/api?username=layllarodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="55%" height="55%"/>
    
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=layllarodrigues&layout=compact&langs_count=7&theme=dracula" width="40%" height="40%"/>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LayllaRodrigues&layout=compact&langs_count=7&theme=dracula" width="40%" height="45%"/>
   
 </div>
  
