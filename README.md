@@ -12,7 +12,7 @@
   <a href="https://github.com/LayllaRodrigues">
    <img  src="https://github-readme-stats.vercel.app/api?username=layllarodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="55%" height="55%"/>
    
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LayllaRodrigues&layout=compact&langs_count=7&theme=dracula" width="40%" height="45%"/>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=layllarodrigues&layout=compact&langs_count=7&theme=dracula" width="40%" height="45%"/>
   
 </div>
  
@@ -39,7 +39,7 @@
  <p align="center"> Pessoas que passaram por aqui 😜 </p>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" /></p>
  
-   ![Snake animation](https://github.com/LayllaRodrigues/LayllaRodrigues/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/layllarodrigues/layllarodrigues/blob/output/github-contribution-grid-snake.svg)
 
 
   
