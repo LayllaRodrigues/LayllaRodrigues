@@ -1,6 +1,6 @@
 # Laylla Rodrigues 
 
-- 🔭 Software quality engineer
+- 🔭 Software Quality Engineer
 - 📚 Estudante de automação e engenharia da qualidade de software
 
 
