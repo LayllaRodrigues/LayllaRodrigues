@@ -11,9 +11,9 @@
 
  <div>
   <a href="https://github.com/LayllaRodrigues">
-   <img  src="https://github-readme-stats.vercel.app/api?username=LayllaRodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="55%" height="55%"/>
+   <img  src="https://github-readme-stats.vercel.app/api?username=LayllaRodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="50%" height="47%"/>
    
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LayllaRodrigues&layout=compact&langs_count=7&theme=dracula" width="40%" height="45%"/>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LayllaRodrigues&layout=compact&langs_count=6&theme=dracula" width="40%" height="47%"/>
   
 </div>
  
